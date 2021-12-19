@@ -14,3 +14,5 @@ sudo apt -qq install nmap -y
 echo "Installed Nmap"
 sudo apt -qq install wireshark -y
 echo "Installed Wireshark"
+sudo apt -qq install lynx -y
+echo "Installed Lynx Browser"
