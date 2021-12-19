@@ -1,3 +1,4 @@
+sudo apt update && sudo apt upgrade -y
 sudo apt -qq install git -y
 echo "Installed Git"
 sudo apt -qq install aircrack-ng -y
